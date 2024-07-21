@@ -1,0 +1,13 @@
+.searchitem_wrapper{
+    width: 91%;
+    margin: 18px auto;
+    
+}
+.searchitems_products{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    /* flex-shrink: 0; */
+    gap: 35px;
+    padding: 20px 0px;
+}

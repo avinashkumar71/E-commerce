@@ -1,0 +1,47 @@
+.border{
+    border: 1px solid black;
+}
+.scroll_container{
+    width: 90%;
+    height: 300px;
+    margin: 0px auto;
+    margin-bottom: 50px;
+    position: relative;
+}
+.scroll_heading{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0px;
+}
+.scroll_wrapper{
+    width: 100%;
+    height: 91%;
+    overflow: hidden;
+}
+.scroll_products{
+    width: 200%;
+    display: flex;
+    gap: 24px;
+    transition: all 0.5s ease;
+}
+.scroll_btn{
+    position: absolute;
+    width: 104%;
+    display: flex;
+    justify-content: space-between;
+    bottom: 35%;
+    left: -20px;
+   
+}
+.scroll_btn button{
+    background-color: white;
+    font-size: 25px;
+    padding: 5px 10px;
+    border-radius: 50%;
+    border: none;
+    outline: none;
+}
+.scroll_btn_left{
+    transform: rotate(-180deg);
+}

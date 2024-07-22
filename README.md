@@ -44,3 +44,4 @@ This is a full-fledged eCommerce application built using React for the frontend 
 - npm start
 
 ## Screenshots
+<img src="https://github.com/avinashkumar71/E-commerce/blob/main/screenshot/p1.png">

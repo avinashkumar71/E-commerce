@@ -46,3 +46,5 @@ This is a full-fledged eCommerce application built using React for the frontend 
 ## Screenshots
 <img src="https://github.com/avinashkumar71/E-commerce/blob/main/screenshot/p1.png">
 <img src="https://github.com/avinashkumar71/E-commerce/blob/main/screenshot/p3.png">
+<img src="https://github.com/avinashkumar71/E-commerce/blob/main/screenshot/p4.png">
+<img src="https://github.com/avinashkumar71/E-commerce/blob/main/screenshot/p5.png">

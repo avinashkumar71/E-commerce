@@ -34,3 +34,13 @@ This is a full-fledged eCommerce application built using React for the frontend 
 - python manage.py createsuperuser  # Create an admin user
 - python manage.py runserver
 
+## Frontend Setup
+
+### Navigate to the frontend directory:
+### Install the required dependencies:
+- npm install
+
+### Run the React development server:
+- npm start
+
+## Screenshots

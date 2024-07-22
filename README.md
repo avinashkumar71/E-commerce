@@ -6,3 +6,9 @@ This is a full-fledged eCommerce application built using React for the frontend 
 - Product Listings and Detailed View
 - Shopping Cart
 - Order Management
+
+### Prerequisites
+- Python 3.10
+- Node.js and npm
+- Django
+- React

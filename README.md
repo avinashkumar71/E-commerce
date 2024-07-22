@@ -19,6 +19,9 @@ This is a full-fledged eCommerce application built using React for the frontend 
 - Database: MSSQL (for development)
 - Authentication: JWT (JSON Web Tokens)
 
+### Backend Setup
+- git clone https://github.com/yourusername/ecommerce-app.git
+
 ### Create and activate a virtual environment:
 - python3 -m venv venv
 - source venv/bin/activate  # On Windows use `venv\Scripts\activate`

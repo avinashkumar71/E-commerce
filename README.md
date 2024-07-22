@@ -20,7 +20,7 @@ This is a full-fledged eCommerce application built using React for the frontend 
 - Authentication: JWT (JSON Web Tokens)
 
 ### Backend Setup
-- git clone https://github.com/yourusername/ecommerce-app.git
+- git clone https://github.com/avinashkumar71/E-commerce.git
 
 ### Create and activate a virtual environment:
 - python3 -m venv venv

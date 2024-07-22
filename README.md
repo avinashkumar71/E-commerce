@@ -12,3 +12,10 @@ This is a full-fledged eCommerce application built using React for the frontend 
 - Node.js and npm
 - Django
 - React
+
+## Technologies Used
+- Frontend: React
+- Backend: Django, Django REST Framework
+- Database: MSSQL (for development)
+- Authentication: JWT (JSON Web Tokens)
+  
